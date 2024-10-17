@@ -3,6 +3,6 @@
 **/.bsp/
 **/build/
 **/target/
-**/test/
 **/out/
 **/node_modules/
+**/.gitignore
